@@ -1,0 +1,7 @@
+C:\Users\Mert\Desktop\School\SCRUM\Sprints\Sprint 1\4\34\34\bin\Debug\34.exe.config
+C:\Users\Mert\Desktop\School\SCRUM\Sprints\Sprint 1\4\34\34\bin\Debug\34.exe
+C:\Users\Mert\Desktop\School\SCRUM\Sprints\Sprint 1\4\34\34\bin\Debug\34.pdb
+C:\Users\Mert\Desktop\School\SCRUM\Sprints\Sprint 1\4\34\34\obj\Debug\34.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\School\SCRUM\Sprints\Sprint 1\4\34\34\obj\Debug\34.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\School\SCRUM\Sprints\Sprint 1\4\34\34\obj\Debug\34.exe
+C:\Users\Mert\Desktop\School\SCRUM\Sprints\Sprint 1\4\34\34\obj\Debug\34.pdb
