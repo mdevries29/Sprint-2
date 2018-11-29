@@ -1,0 +1,7 @@
+C:\Users\miked\OneDrive - ROC van Twente\Documents\Data ROC\Visual Studio\Sprint 2\S1-BE-M03\Opdracht3.9\Opdracht3.9\bin\Debug\Opdracht3.9.exe.config
+C:\Users\miked\OneDrive - ROC van Twente\Documents\Data ROC\Visual Studio\Sprint 2\S1-BE-M03\Opdracht3.9\Opdracht3.9\bin\Debug\Opdracht3.9.exe
+C:\Users\miked\OneDrive - ROC van Twente\Documents\Data ROC\Visual Studio\Sprint 2\S1-BE-M03\Opdracht3.9\Opdracht3.9\bin\Debug\Opdracht3.9.pdb
+C:\Users\miked\OneDrive - ROC van Twente\Documents\Data ROC\Visual Studio\Sprint 2\S1-BE-M03\Opdracht3.9\Opdracht3.9\obj\Debug\Opdracht3.9.csprojAssemblyReference.cache
+C:\Users\miked\OneDrive - ROC van Twente\Documents\Data ROC\Visual Studio\Sprint 2\S1-BE-M03\Opdracht3.9\Opdracht3.9\obj\Debug\Opdracht3.9.csproj.CoreCompileInputs.cache
+C:\Users\miked\OneDrive - ROC van Twente\Documents\Data ROC\Visual Studio\Sprint 2\S1-BE-M03\Opdracht3.9\Opdracht3.9\obj\Debug\Opdracht3.9.exe
+C:\Users\miked\OneDrive - ROC van Twente\Documents\Data ROC\Visual Studio\Sprint 2\S1-BE-M03\Opdracht3.9\Opdracht3.9\obj\Debug\Opdracht3.9.pdb
