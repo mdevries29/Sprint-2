@@ -13,9 +13,9 @@ namespace Opdracht5._5
             int intTeller, intSom;
             intSom = 0;
 
-            for (intTeller = 100; intTeller < 1000; intTeller++)
+            for (intTeller = 100; intTeller <= 1000; intTeller++)
             {
-                intSom = intSom + (1000 - intTeller);
+                intSom = intSom + intTeller;
             }
             Console.WriteLine("De som van 100 tot 1000 is met al zijn voorgaande getallen is " + intSom.ToString());
             Console.ReadLine();

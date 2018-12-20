@@ -10,20 +10,27 @@ namespace Opdracht5._11
     {
         static void Main(string[] args)
         {
-            decimal rente, geldBedrag, eindBedrag, renteBedrag;
-            eindBedrag = 0;
-
             Console.WriteLine("Geef uw geldbedrag:");
-            geldBedrag = Convert.ToDecimal(Console.ReadLine());
+            decimal geldBedrag = Convert.ToDecimal(Console.ReadLine());
 
             Console.WriteLine("Geef uw rente percentage %:");
-            rente = Convert.ToDecimal(Console.ReadLine());
+            decimal rente = Convert.ToDecimal(Console.ReadLine());
 
-            renteBedrag = geldBedrag * rente;
-            eindBedrag = geldBedrag + (10 * (renteBedrag - geldBedrag));
+            decimal rentePercentage = (rente / 100) + 1; ;
 
-            Console.WriteLine("Na 10 jaar heeft u: " + eindBedrag);
+            Console.Write("\r\n");
+            Console.WriteLine("Waarde na elk jaar:" + "\r\n");
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Na " + (i + 1)+ " jaar" + "\t\t" + Rounding((rentePercentage * geldBedrag)));
+                geldBedrag = rentePercentage * geldBedrag;
+            }
             Console.ReadLine();
+        }
+
+        private static decimal Rounding(decimal _geldBedrag)
+        {
+            return Math.Round(_geldBedrag, 2);
         }
     }
 }

@@ -11,7 +11,7 @@ namespace Opdracht5._21
         public static void Main()
         {
             int a, b, i, Som = 0;
-            for (i = 1; i < 100; i++)
+            for (i = 1; i < 1000; i++)
             {
                 a = i % 3;
                 b = i % 5;
